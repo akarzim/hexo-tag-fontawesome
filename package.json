@@ -1,0 +1,24 @@
+{
+  "name": "hexo-tag-fontawesome",
+  "version": "1.0.0",
+  "description": "A Font Awesome plugin for Hexo",
+  "main": "fontawesome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akarzim/hexo-tag-fontawesome.git"
+  },
+  "keywords": [
+    "fontawesome",
+    "hexo",
+    "tag"
+  ],
+  "author": "François VANTOMME <akarzim@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akarzim/hexo-tag-fontawesome/issues"
+  },
+  "homepage": "https://github.com/akarzim/hexo-tag-fontawesome"
+}
